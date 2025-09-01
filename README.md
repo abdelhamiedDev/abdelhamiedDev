@@ -43,9 +43,15 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/[lil3sfour]" target=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/[Lil_asfour]" target=""><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
-<a href="mailto:[medo91057@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/lil3sfour" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/Lil_asfour" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="mailto:medo91057@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 
