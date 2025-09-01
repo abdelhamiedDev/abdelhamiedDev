@@ -21,7 +21,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,linux" />
 </p>
 
 
@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[abdelhamiedDev]&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[abdelhmiedDev]&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=[abdelhamiedDev]&theme=tokyonight" alt="GitHub Streak"/>
 <br>
