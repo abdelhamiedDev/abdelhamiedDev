@@ -1,18 +1,18 @@
 <!-- GitHub Profile README Template -->
 
 
-<h1 align="center">Hi 👋, I'm [Abdelhamed Asfour]</h1>
-<h3 align="center">Learner at ALX [Backend Program] | Aspiring [Software Engineer]</h3>
+<h1 align="center">Hi 👋, I'm Abdelhamed Asfour</h1>
+<h3 align="center">Learner at ALX Backend Program | Aspiring Software Engineer</h3>
 
 
 ---
 
 
 ### 🚀 About Me
-- 🎓 I am a learner of the **ALX [Backend Program]**
-- 💻 I started with software engineering because **[I find it so cool]**
-- 🎯 My aim is to **[solve real-world problems with the help of SWE&AI]**
-- 🔭 I would like to work on **[mini projects to apply my knowledge]**
+- 🎓 I am a learner of the **ALX Backend Program**
+- 💻 I started with software engineering because **I find it so cool**
+- 🎯 My aim is to **solve real-world problems with the help of SWE&AI**
+- 🔭 I would like to work on **mini projects to apply my knowledge**
 
 
 ---
