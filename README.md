@@ -30,11 +30,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelhmiedDev&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?user=abdelhmiedDev&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhamiedDev&theme=tokyonight" alt="GitHub Streak"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamiedDev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=abdelhamiedDev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 
